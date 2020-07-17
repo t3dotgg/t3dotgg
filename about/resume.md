@@ -10,7 +10,7 @@ Title: Front End Engineer (FEE II)
 Role: Full stack dev and technical lead for front end projects (Mod View and internal tools)
 
 #### Projects (Public-facing projects have clickable links)
-Note: This is meant to be a short summary. [Much more info on my projects here](./projects.md)
+Note: This is meant to be a short summary. [Much more info on my projects here](https://github.com/TheoBr/TheoBr/blob/master/about/projects.md)
 - [Mod View](http://twitch.tv/moderator)
   - Customizable moderation experience for Twitch users
   - Tech: React, Typescript, Apollo GraphQL, react-dnd, react-mosaic
@@ -47,7 +47,7 @@ Title: Computer Science (Bachelor of Science) and Music Technology (Bachelor of 
 [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [GraphQL](https://graphql.org/) (especially [Apollo GraphQL client](https://www.apollographql.com/docs/react/)), [Webpack](https://webpack.js.org/), [Electron](https://www.electronjs.org/), [react-dnd](https://github.com/react-dnd/react-dnd)
 
 ### Things I'm good at (>1 year industry experience)
-[Golang](https://golang.org/), [GraphQL Gophers](https://github.com/graph-gophers/graphql-go), [Elixir](https://elixir-lang.org/), [Phoenix](https://phoenixframework.org/)
+[FFmpeg](https://ffmpeg.org/), [Golang](https://golang.org/), [GraphQL Gophers](https://github.com/graph-gophers/graphql-go), [Elixir](https://elixir-lang.org/), [Phoenix](https://phoenixframework.org/)
 
 ### Things I like a lot (Personal time, no industry applications)
 [Deno](https://deno.land), [Snowpack](https://snowpack.dev), [esbuild](https://github.com/evanw/esbuild), [Preact](https://preactjs.com/)
