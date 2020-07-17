@@ -6,5 +6,5 @@ Front End Engineer at [Twitch](https://twitch.tv), React + Typescript nerd
 
 More about me:
 - [Website](https://t3.gg)
-- [Resume](./about/resume.md)
-- [Projects](./about/projects.md)
+- [Resume](https://github.com/TheoBr/TheoBr/blob/master/about/resume.md)
+- [Projects](https://github.com/TheoBr/TheoBr/blob/master/about/portfolio.md)
