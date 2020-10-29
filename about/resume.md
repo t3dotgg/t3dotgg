@@ -1,16 +1,21 @@
 # Theo Browne
+
 Front End Engineer, React + Typescript nerd hungering for some open source
 
 ## Employment
+
 ### Twitch
-*February 2017 - Now*
+
+_February 2017 - Now_
 
 Title: Front End Engineer (FEE II)
 
 Role: Full stack dev and technical lead for front end projects (Mod View and internal tools)
 
 #### Projects (Public-facing projects have clickable links)
+
 Note: This is meant to be a short summary. [Much more info on my projects here](https://github.com/TheoBr/TheoBr/blob/master/about/projects.md)
+
 - [Mod View](http://twitch.tv/moderator)
   - Customizable moderation experience for Twitch users
   - Tech: React, Typescript, Apollo GraphQL, react-dnd, react-mosaic
@@ -20,6 +25,9 @@ Note: This is meant to be a short summary. [Much more info on my projects here](
 - [Dashboard/Stream Manager](https://dashboard.twitch.tv)
   - Customizable tools for streamers to manage their channels
   - Tech: React, Typescript, Apollo GraphQL, react-dnd, react-mosaic
+- Moonlight (internal experiment)
+  - Creator-focused mobile app full of useful tools when live
+  - Tech: React Native, Typescript, Apollo GraphQL, Styled Components, Expo
 - Aegis (internal safety tooling)
   - Internal safety tools for investigating reports
   - Tech: React, Typescript, Apollo GraphQL, MobX, Golang, graphql-gophers
@@ -31,28 +39,36 @@ Note: This is meant to be a short summary. [Much more info on my projects here](
   - Tech: Elixir, Phoenix, FFMPEG, React, Javascript
 
 ## Education
+
 ### Rensselaer Polytechnic Institute
-*August 2013 - December 2016*
+
+_August 2013 - December 2016_
 
 Title: Computer Science (Bachelor of Science) and Music Technology (Bachelor of Arts)
 
 #### Projects
+
 - Rensselaer Center for Open Source (RCOS)
   - I was a mentor for RPI's open source program, helping hundreds of students get active in open source comunities
 - MetPetDB
   - Open source geology database. I helped create the front end and get the project onto modern service architecture
 
 ## Tech
+
 ### Things I'm great at (>3 years industry experience):
+
 [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [GraphQL](https://graphql.org/) (especially [Apollo GraphQL client](https://www.apollographql.com/docs/react/)), [Webpack](https://webpack.js.org/), [Electron](https://www.electronjs.org/), [react-dnd](https://github.com/react-dnd/react-dnd)
 
 ### Things I'm good at (>1 year industry experience)
-[FFmpeg](https://ffmpeg.org/), [Golang](https://golang.org/), [GraphQL Gophers](https://github.com/graph-gophers/graphql-go), [Elixir](https://elixir-lang.org/), [Phoenix](https://phoenixframework.org/)
+
+[React Native](https://reactnative.dev/), [FFmpeg](https://ffmpeg.org/), [Golang](https://golang.org/), [GraphQL Gophers](https://github.com/graph-gophers/graphql-go), [Elixir](https://elixir-lang.org/), [Phoenix](https://phoenixframework.org/)
 
 ### Things I like a lot (Personal time, no industry applications)
+
 [Deno](https://deno.land), [Snowpack](https://snowpack.dev), [esbuild](https://github.com/evanw/esbuild), [Preact](https://preactjs.com/)
 
 ### Contact
+
 - Email: me@theo.li
 - Website: [t3.gg](https://t3.gg)
 - Github: [TheoBr](http://github.com/theobr)
