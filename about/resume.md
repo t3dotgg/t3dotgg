@@ -20,7 +20,7 @@ Note: This is meant to be a short summary. [Much more info on my projects here](
   - Customizable moderation experience for Twitch users
   - Tech: React, Typescript, Apollo GraphQL, react-dnd, react-mosaic
 - [Twitch Studio](https://www.twitch.tv/broadcast/studio)
-  - Complete broadcasting solution for new and experience Twitch streamers
+  - Complete broadcasting solution for new and experienced Twitch streamers
   - Tech: Electron, React, Typescript, Apollo GQL, a _lot_ of node-gyp
 - [Dashboard/Stream Manager](https://dashboard.twitch.tv)
   - Customizable tools for streamers to manage their channels
