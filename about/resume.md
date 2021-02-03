@@ -4,9 +4,17 @@ Front End Engineer, React + Typescript nerd hungering for some open source
 
 ## Employment
 
+### Turntable
+
+_February 2021 - Now_
+
+Title: Lead Developer
+
+More coming soon :)
+
 ### Twitch
 
-_February 2017 - Now_
+_February 2017 - February 2021_
 
 Title: Front End Engineer (FEE II)
 
