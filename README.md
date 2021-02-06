@@ -1,4 +1,8 @@
-Lead UX Engineer at [Turntable](https://tt.fm). Nerdy about React, React Native, Typescript, Next JS, GraphQL, and much more. Alumni of [Twitch](https://twitch.tv) and [RPI](https://rpi.edu)
+Lead UX Engineer at [Turntable](https://tt.fm).
+
+Nerdy about React, React Native, Typescript, Next JS, GraphQL, and much more.
+
+Alumni of [Twitch](https://twitch.tv) and [RPI](https://rpi.edu)
 
 More about me:
 
