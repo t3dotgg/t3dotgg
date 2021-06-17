@@ -1,6 +1,6 @@
 # Theo Browne
 
-Front End Engineer, React + Typescript nerd hungering for some open source
+Front End Engineer, React + Typescript nerd, lover of simple things that solve complex things
 
 ## Employment
 
