@@ -1,5 +1,51 @@
 # Projects
 
+## Personal
+
+### Dogecoin Simulator
+
+Dogecoin Simulator is a web game heavily inspired by [Universal Paperclip](https://www.decisionproblem.com/paperclips/). I was curious how my "tech stack" held up under the load of a high thrash game engine, and had a lot of fun pushing the limits of the tech I was consuming.
+
+Dogecoin Simulator uses React and Zustand to define all game logic and UI. Zustand's state model allowed me to centralize all the complex game logic into a [simple, typesafe state machine](https://github.com/TheoBr/dogecoin-simulator/blob/main/src/engine/game.ts).
+
+I'm really proud of the quality of this project and the performance it maintains. [All of the code is open source, so please give it a look!](https://github.com/TheoBr/dogecoin-simulator)
+
+### Chrometana
+
+Chrometana is poorly maintained Chrome extension I released on the launch of Windows 10. I was frustrated as hell by Cortana only searching Bing, so I hacked together a script to redirect those searches. This extension has had over 1 million installations and is still regularly featured in reporting from The Verge, Wall Street Journal, and more. All that said, it's a tiny script that redirects Bing searches that I wrote 5 years ago and haven't touched much since.
+
+### Personal Site and Blog
+
+I've always enjoyed using my [personal site](https://t3.gg/) and [blog](https://t3.gg/blog) as a place to experiment with new tech and ideas. The most recent rendition is a [Next.JS](https://nextjs.org/) and Typescript site with mdx integrations for the blog (via [mdx-bundler](https://github.com/kentcdodds/mdx-bundler)), all hosted on [Vercel](https://vercel.com/). Oh also - the animations are vanilla JS this time :)
+
+Previously, my personal site was built using [Gatsby](https://www.gatsbyjs.com/) and Typescript, with [PaperJS](http://paperjs.org/) for animation. I found this setup oddly frustrating to build and maintain, enough so that I [published a template to prevent others from having the same issues](https://github.com/TheoBr/minimal-gatsby-typescript-starter)
+
+## Turntable - tt.fm
+
+### Turntable Web
+
+_January 2021 - Now_
+
+Role: Engineering Lead, majority code contributor
+
+The new Turntable website is a modern rethinking of the classic shared music experience from the late 2000's. It was super exciting to bring back an experience from my childhood. I lead the effort to build the new site, from hiring to architecture to CDN.
+
+Turntable is built on React and Typescript. I lead us to adopting the most minimal viable modern solutions for problems instead of buying into bigger ecosystems - i.e. using [Zustand](https://github.com/pmndrs/zustand) and [React Query](https://react-query.tanstack.com/) over my previous choices of [Redux](https://react-redux.js.org/) and [Apollo](https://www.apollographql.com/). The majority of the experience is managed through a [Socket.io](https://socket.io/) service that is managed and persisted using these same tools.
+
+A large amount of the effort put into Turntable was the integrations with various streaming services. I had to deobfuscate and reverse engineer Apple's MusicKit JS to add basic features like track skimming and queueing. I built track ID matching APIs to allow Spotify users to play Apple Music songs (and vice versa). We even got track provider interoperability with Soundcloud mixed in :)
+
+### Turntable Mobile (iOS and Android)
+
+_January 2021 - Now_
+
+Role: Engineering Lead, majority code contributor
+
+Excited about my success with the Moonlight project at Twitch, I wanted to push [React Native](https://reactnative.dev/) and [Expo](https://expo.io/) as far as I could. In under a month, I delievered a multi-platform Turntable experiece for iOS and Android with native Apple Music integration on both. I was lucky to have an awesome Android and iOS engineer to partner with, building Swift and Kotlin integrations that I could shim into the React Native world, seamlessly integrating the two.
+
+The coolest part of betting on React and Typescript was the amount of interoperability with the web version. I built the React Native app first, and was able to re-use over 80% of our work in creating the website. To this day, the vast majority of state management, socket connection, routing, and API integration code is shared between both the web and mobile versions of the app.
+
+These decisions allowed me and 2 other engineers to deliver Turntable across all platforms in under 2 months.
+
 ## Twitch
 
 ### Mod View
@@ -81,9 +127,3 @@ I was a mentor for RCOS starting early in my time at RPI. I was disappointed by 
 ### MetPetDB
 
 I was a full stack developer for MetPetDB during my time at RPI. MetPet is an open source geology database. I helped create the front end and get the project onto modern service architecture
-
-## Personal open source
-
-### Chrometana
-
-Chrometana is poorly maintained Chrome extension I released on the launch of Windows 10. I was frustrated as hell by Cortana only searching Bing, so I hacked together a script to redirect those searches. This extension has had over 1 million installations and is still regularly featured in reporting from The Verge, Wall Street Journal, and more. Reminder - it's a tiny script that redirects Bing searches to whatever.

@@ -4,13 +4,13 @@ Front End Engineer, React + Typescript nerd hungering for some open source
 
 ## Employment
 
-### Turntable
+### Turntable (tt.fm)
 
 _February 2021 - Now_
 
 Title: Lead Developer
 
-More coming soon :)
+Built tt.fm for web and mobile (iOS and Android) using Typescript, React and React Native
 
 ### Twitch
 
@@ -24,12 +24,21 @@ Role: Full stack dev and technical lead for front end projects (Mod View and int
 
 Note: This is meant to be a short summary. [Much more info on my projects here](https://github.com/TheoBr/TheoBr/blob/master/about/projects.md)
 
+- [Dogecoin Simulator](https://github.com/TheoBr/dogecoin-simulator)
+  - Open source cookie clicker style market simulator game
+  - Tech: React, Typescript, Zustand, Vercel, Vite
+- [Turntable Web](https://beta.tt.fm/)
+  - Web app for building digital spaces to hang out with friends and play music from any source
+  - Tech: React, Typescript, Vercel, Zustand + Jotai, styled-components
+- [Turntable Mobile (Android and iOS)](https://tt.fm/)
+  - Mobile app for building digital spaces to hang out with friends and play music from any source
+  - Tech: React Native, Expo, Typescript, Zustand + Jotai, styled-components, Swift + Kotlin for native
 - [Mod View](http://twitch.tv/moderator)
   - Customizable moderation experience for Twitch users
   - Tech: React, Typescript, Apollo GraphQL, react-dnd, react-mosaic
 - [Twitch Studio](https://www.twitch.tv/broadcast/studio)
   - Complete broadcasting solution for new and experienced Twitch streamers
-  - Tech: Electron, React, Typescript, Apollo GQL, a _lot_ of node-gyp
+  - Tech: Electron, React, Typescript, Apollo GQL, node-gyp
 - [Dashboard/Stream Manager](https://dashboard.twitch.tv)
   - Customizable tools for streamers to manage their channels
   - Tech: React, Typescript, Apollo GraphQL, react-dnd, react-mosaic
