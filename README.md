@@ -1,4 +1,4 @@
-Lead UX Engineer at [Turntable](https://tt.fm).
+Engineering Lead at [Turntable](https://tt.fm).
 
 Nerdy about React, React Native, Typescript, Next JS, GraphQL, and much more.
 
