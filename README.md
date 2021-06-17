@@ -8,7 +8,7 @@ More about me:
 
 - [Website](https://t3.gg)
 - [Resume](https://github.com/TheoBr/TheoBr/blob/master/about/resume.md)
-- [Projects](https://github.com/TheoBr/TheoBr/blob/master/about/projects.md)
+- [Projects](https://t3.gg/projects)
 
 ---
 

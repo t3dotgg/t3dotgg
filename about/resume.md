@@ -22,7 +22,7 @@ Role: Full stack dev and technical lead for front end projects (Mod View and int
 
 #### Projects (Public-facing projects have clickable links)
 
-Note: This is meant to be a short summary. [Much more info on my projects here](https://github.com/TheoBr/TheoBr/blob/master/about/projects.md)
+Note: This is meant to be a short summary. [Much more info on my projects here](https://t3.gg/projects)
 
 - [Dogecoin Simulator](https://github.com/TheoBr/dogecoin-simulator)
   - Open source cookie clicker style market simulator game
@@ -72,7 +72,7 @@ Title: Computer Science (Bachelor of Science) and Music Technology (Bachelor of 
 
 ## Tech
 
-### Things I'm great at (>3 years industry experience):
+### Things I'm great at (>3 years industry experience)
 
 [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [GraphQL](https://graphql.org/) (especially [Apollo GraphQL client](https://www.apollographql.com/docs/react/)), [Webpack](https://webpack.js.org/), [Electron](https://www.electronjs.org/), [react-dnd](https://github.com/react-dnd/react-dnd)
 
