@@ -16,4 +16,6 @@ More about me:
 
 ---
 
+<p align="center">
 <a href="https://t3.gg"><img src="./assets/V1.svg" alt="T3 Tools Logo" width="100"></a>
+</p>
