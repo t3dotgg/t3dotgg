@@ -1,8 +1,8 @@
-Engineering Lead at [Turntable](https://tt.fm).
+Creator of [T3 Tools](https://round.t3.gg)
 
 Nerdy about React, React Native, Typescript, Next JS, GraphQL, and much more.
 
-Alumni of [Twitch](https://twitch.tv) and [RPI](https://rpi.edu)
+Alumni of [Twitch](https://twitch.tv), [Turntable](https://tt.fm) and [RPI](https://rpi.edu)
 
 More about me:
 
