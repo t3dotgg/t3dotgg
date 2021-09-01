@@ -16,4 +16,4 @@ More about me:
 - [Resume](https://github.com/TheoBr/TheoBr/blob/master/about/resume.md)
 - [Projects](https://t3.gg/projects)
 
-<a href="https://t3.gg" style="{border-radius: 0.5rem; width: 150px; }"><img src="./assets/V1.svg" alt="T3 Tools Logo"></a>
+<a href="https://t3.gg"><img src="./assets/V1.svg" alt="T3 Tools Logo" style="{border-radius: 0.5rem; width: 150px; }"></a>
