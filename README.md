@@ -14,3 +14,5 @@ More about me:
 
 <a href="https://twitter.com/t3dotgg"><img src="https://img.shields.io/twitter/follow/t3dotgg?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://twitch.tv/Theo"><img src="https://img.shields.io/twitch/status/Theo?label=Twitch" alt="Twitch"></a>
+[![Discord](https://img.shields.io/discord/853396660331085824.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4qSC2V3vDw)
+
