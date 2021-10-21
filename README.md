@@ -4,7 +4,7 @@
 
 Creator of [T3 Tools](https://t3.gg)
 
-Nerdy about React, React Native, Typescript, Next.js, Prisma, and much more.
+Nerdy about React, React Native, Typescript, Next.js, Prisma, tRPC, and much more.
 
 Check out my recommended stack (for new and experienced developers) at [init.tips](https://init.tips)
 
