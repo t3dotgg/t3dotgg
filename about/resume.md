@@ -1,12 +1,20 @@
 # Theo Browne
 
-Front End Engineer, React + Typescript nerd, lover of simple things that solve complex things
+Founder and builder. Not available for hire.
 
 ## Employment
 
+### T3 Tools (t3.gg)
+
+_August 2021 - now_
+
+Title: I started it lol
+
+T3 Tools is building the next generation of live creator tools. Nobody else was doing it right. More coming soon :)
+
 ### Turntable (tt.fm)
 
-_February 2021 - Now_
+_February 2021 - August 2021_
 
 Title: Lead Developer
 
