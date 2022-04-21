@@ -2,7 +2,7 @@
 <a href="https://twitter.com/t3dotgg"><img src="https://img.shields.io/twitter/follow/t3dotgg?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://twitch.tv/Theo"><img src="https://img.shields.io/twitch/status/Theo?label=Twitch" alt="Twitch"></a>
 
-Creator of [T3 Tools](https://t3.gg)
+Founder and CEO of [Ping Labs - ping.gg](https://ping.gg) (YC W22)
 
 Nerdy about React, React Native, Typescript, Next.js, Prisma, and much more.
 

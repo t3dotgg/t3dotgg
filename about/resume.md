@@ -4,13 +4,13 @@ Founder and builder. Not available for hire.
 
 ## Employment
 
-### T3 Tools (t3.gg)
+### Ping Labs (YC W22) - [ping.gg](https://ping.gg)
 
 _August 2021 - now_
 
-Title: I started it lol
+Title: CEO and founder
 
-T3 Tools is building the next generation of live creator tools. Nobody else was doing it right. More coming soon :)
+Ping Labs (fmr. T3 Tools) is building the next generation of live creator tools. Nobody else was doing it right. More coming soon :)
 
 ### Turntable (tt.fm)
 
