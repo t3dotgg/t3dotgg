@@ -74,7 +74,7 @@ Title: Computer Science (Bachelor of Science) and Music Technology (Bachelor of 
 #### Projects
 
 - Rensselaer Center for Open Source (RCOS)
-  - I was a mentor for RPI's open source program, helping hundreds of students get active in open source comunities
+  - I was a mentor for RPI's open source program, helping hundreds of students get active in open source communities
 - MetPetDB
   - Open source geology database. I helped create the front end and get the project onto modern service architecture
 
