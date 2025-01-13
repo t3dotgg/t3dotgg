@@ -96,6 +96,6 @@ Title: Computer Science (Bachelor of Science) and Music Technology (Bachelor of 
 
 - Email: me@theo.li
 - Website: [t3.gg](https://t3.gg)
-- Github: [TheoBr](http://github.com/theobr)
-- Twitter: [TheoOnTwitch](https://twitter.com/TheoOnTwitch)
+- Github: [t3dotgg](https://github.com/t3dotgg)
+- Twitter: [@theo](https://twitter.com/theo)
 - Twitch: [twitch.tv/Theo](https://twitch.tv/Theo)
