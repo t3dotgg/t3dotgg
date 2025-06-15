@@ -1,4 +1,4 @@
-Founder and CEO of [T3 Chat](https://t3.chat) (aka [Ping,gg](https://ping.gg))
+Founder and CEO of [T3 Chat](https://t3.chat) (aka [Ping.gg](https://ping.gg))
 
 I build things and make content about it. Known mostly for Typescript adjacent stuff. You have probably seen my YouTube videos.
 
