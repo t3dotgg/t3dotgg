@@ -13,7 +13,7 @@ Checkout my [YouTube](https://www.youtube.com/@t3dotgg), [Twitter](https://x.com
 - **[Ping.gg](https://ping.gg/home)** — Zoom for streamers, built for OBS
 - **[PicThing](https://pic.ping.gg)** — Background removal and asset management for professional creators
 - **[Shoo](https://shoo.dev)** — Simple auth (coming soon)
-- **[Lawn](https://lawn.video)** — Like Frame.io but worse (coming soon)
+- **[Lawn](https://lawn.video)** — Open source alternative to Frame.io
 - **T3 Code** — A harness for your AI harnesses (coming soon)
 
 ### LLM Benchmarks & Shenanigans
