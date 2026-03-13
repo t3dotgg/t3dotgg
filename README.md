@@ -14,7 +14,7 @@ Checkout my [YouTube](https://www.youtube.com/@t3dotgg), [Twitter](https://x.com
 - **[PicThing](https://pic.ping.gg)** — Background removal and asset management for professional creators
 - **[Shoo](https://shoo.dev)** — Simple auth (coming soon)
 - **[Lawn](https://lawn.video)** — Open source alternative to Frame.io
-- **T3 Code** — A harness for your AI harnesses (coming soon)
+- **[T3 Code](https://t3.codes)** — A harness for your AI harnesses
 
 ### LLM Benchmarks & Shenanigans
 
