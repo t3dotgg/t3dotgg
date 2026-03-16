@@ -7,6 +7,7 @@ Checkout my [YouTube](https://www.youtube.com/@t3dotgg), [Twitter](https://x.com
 ### Products
 
 - **[T3 Chat](https://t3.chat)** — The only AI chat that doesn't suck
+- **[T3 Code](https://github.com/pingdotgg/t3code)** — A harness for your AI harnesses
 - **[UploadThing](https://github.com/pingdotgg/uploadthing)** — File uploads for modern web devs (5k+ stars)
 - **[QuickPic](https://github.com/t3dotgg/quickpic)** — Turn SVGs into high resolution PNGs in 2 clicks (1.2k+ stars)
 - **[Unduck](https://github.com/t3-content/unduck)** — Fast, local-first search engine for !bang users (1.1k+ stars)
@@ -14,7 +15,6 @@ Checkout my [YouTube](https://www.youtube.com/@t3dotgg), [Twitter](https://x.com
 - **[PicThing](https://pic.ping.gg)** — Background removal and asset management for professional creators
 - **[Shoo](https://shoo.dev)** — Simple auth (coming soon)
 - **[Lawn](https://lawn.video)** — Open source alternative to Frame.io
-- **T3 Code** — A harness for your AI harnesses (coming soon)
 
 ### LLM Benchmarks & Shenanigans
 
