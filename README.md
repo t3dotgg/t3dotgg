@@ -1,6 +1,6 @@
-Founder of [T3 Chat](https://t3.chat). Creator of T3 Stack. Popular on [YouTube](https://www.youtube.com/@t3dotgg)
+Founder of [T3 Chat](https://t3.chat). Creator of T3 Stack. Popular on [YouTube](https://www.youtube.com/@theo)
 
-Checkout my [YouTube](https://www.youtube.com/@t3dotgg), [Twitter](https://x.com/theo), [Twitch](https://twitch.tv/theo), or [my site I guess](https://t3.gg)
+Checkout my [YouTube](https://www.youtube.com/@theo), [Twitter](https://x.com/theo), [Twitch](https://twitch.tv/theo), or [my site I guess](https://t3.gg)
 
 ## Current Projects
 
