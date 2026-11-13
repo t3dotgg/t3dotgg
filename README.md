@@ -7,7 +7,7 @@ Checkout my [YouTube](https://www.youtube.com/@theo), [Twitter](https://x.com/th
 ### Products
 
 - **[T3 Chat](https://t3.chat)** — The only AI chat that doesn't suck
-- **[T3 Code](https://github.com/pingdotgg/t3code)** — A harness for your AI harnesses
+- **[T3 Code](https://github.com/pingdotgg/t3code)** — An ADE to manage your AI harnesses
 - **[UploadThing](https://github.com/pingdotgg/uploadthing)** — File uploads for modern web devs (5k+ stars)
 - **[QuickPic](https://github.com/t3dotgg/quickpic)** — Turn SVGs into high resolution PNGs in 2 clicks (1.2k+ stars)
 - **[Unduck](https://github.com/t3-content/unduck)** — Fast, local-first search engine for !bang users (1.1k+ stars)
